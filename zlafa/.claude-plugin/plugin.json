@@ -1,0 +1,12 @@
+{
+  "name": "zlafa",
+  "version": "0.1.0",
+  "author": {
+    "name": "Mohamed Ballouch"
+  },
+  "description": "Zlafa: a bowl that fills as the context window fills, with warnings in Moroccan Darija",
+  "types": "./types/index.d.ts",
+  "homepage": "https://github.com/Mohamedballouch/darija-mods/tree/main/zlafa",
+  "repository": "https://github.com/Mohamedballouch/darija-mods",
+  "license": "MIT"
+}

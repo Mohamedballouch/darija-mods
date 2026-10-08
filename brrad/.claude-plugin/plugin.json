@@ -1,0 +1,26 @@
+{
+  "name": "brrad",
+  "version": "0.1.0",
+  "author": {
+    "name": "Mohamed Ballouch"
+  },
+  "description": "Brrad: when a task takes a while, tells you in Darija to take a break and make tea, then calls you back when it's done",
+  "types": "./types/index.d.ts",
+  "userConfig": {
+    "firstNudgeSeconds": {
+      "type": "number",
+      "title": "First tea nudge (seconds)",
+      "description": "How long a turn runs before Brrad suggests a tea break; later nudges scale from it",
+      "default": 90
+    },
+    "quiet": {
+      "type": "boolean",
+      "title": "Quiet mode",
+      "description": "Only the 'come back, it's done' toast: no band, no mid-task nudges",
+      "default": false
+    }
+  },
+  "homepage": "https://github.com/Mohamedballouch/darija-mods/tree/main/brrad",
+  "repository": "https://github.com/Mohamedballouch/darija-mods",
+  "license": "MIT"
+}

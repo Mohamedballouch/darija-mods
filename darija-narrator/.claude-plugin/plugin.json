@@ -1,0 +1,12 @@
+{
+  "name": "darija-narrator",
+  "version": "0.1.0",
+  "author": {
+    "name": "Mohamed Ballouch"
+  },
+  "description": "Claude explains what it is doing in Moroccan Darija, live above the prompt",
+  "types": "./types/index.d.ts",
+  "homepage": "https://github.com/Mohamedballouch/darija-mods/tree/main/darija-narrator",
+  "repository": "https://github.com/Mohamedballouch/darija-mods",
+  "license": "MIT"
+}

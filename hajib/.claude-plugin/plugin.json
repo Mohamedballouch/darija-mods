@@ -1,0 +1,11 @@
+{
+  "name": "hajib",
+  "version": "0.1.0",
+  "author": {
+    "name": "Mohamed Ballouch"
+  },
+  "description": "Hajib: a doorman that stops dangerous commands and asks for approval in Moroccan Darija",
+  "homepage": "https://github.com/Mohamedballouch/darija-mods/tree/main/hajib",
+  "repository": "https://github.com/Mohamedballouch/darija-mods",
+  "license": "MIT"
+}

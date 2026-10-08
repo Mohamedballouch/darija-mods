@@ -1,0 +1,27 @@
+{
+  "name": "darija-mods",
+  "description": "Claude Code mods that speak Moroccan Darija, edged like a Berber rug",
+  "owner": { "name": "Mohamed Ballouch" },
+  "plugins": [
+    {
+      "name": "darija-narrator",
+      "source": "./darija-narrator",
+      "description": "Claude explains what it is doing in Moroccan Darija, live above the prompt"
+    },
+    {
+      "name": "zlafa",
+      "source": "./zlafa",
+      "description": "A bowl that fills as the context window fills, with /compact warnings in Darija"
+    },
+    {
+      "name": "hajib",
+      "source": "./hajib",
+      "description": "A doorman that blocks catastrophic commands and asks before risky ones, in Darija"
+    },
+    {
+      "name": "brrad",
+      "source": "./brrad",
+      "description": "When a task runs long, tells you to take a break and make tea; calls you back when it's done"
+    }
+  ]
+}
